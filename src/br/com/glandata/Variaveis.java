@@ -5,7 +5,7 @@ public class Variaveis {
 	public static void main(String[] args) {
 
 		System.out.println("Variáveis em Java");
-		String nome = "Camila";
+		String nome = "Teste";
 
 		// tipos primitivos
 		boolean verifica = true;
